@@ -1,0 +1,16 @@
+question_A
+00000000004004b4 T _Z7averagePdRd
+00000000004004e2 T _Z7averageif
+
+question_B
+1 8
+4 8 
+4 8
+8 8
+
+char 大小為1
+int float 大小為4
+double 大小為8
+sizeof(px)是指向x的指標本身的大小
+不同機器值會不一樣
+通常32位元的機器會是4 64位元會是8
